@@ -1,5 +1,3 @@
-Link del video :https://drive.google.com/file/d/15m-yQf0bMIQ0EyG0mBZ5zFMsMkslw3qt/view?usp=sharing
-
 # Face_Recognition
 # Librerias
 click==8.0.3,
